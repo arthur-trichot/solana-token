@@ -2,5 +2,5 @@
   "name": "The Test Token",
   "symbol": "TEST",
   "description": "Useless token on Solana. Created only for a tutorial",
-  "image": https://raw.githubusercontent.com/arthur-trichot/solana-token/blob/main/token-image.png"
+  "image": "https://raw.githubusercontent.com/arthur-trichot/solana-token/blob/main/token-image.png"
 }
