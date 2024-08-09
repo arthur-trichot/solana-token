@@ -1,6 +1,6 @@
 {
   "name": "The Test Token",
   "symbol": "TEST",
-  "description": "Useless token on Solana. Created only for a tutorial",
+  "description": "Useless token on Solana blockchain but useful for the tutorial I currently follow",
   "image": "https://raw.githubusercontent.com/arthur-trichot/solana-token/main/image.png"
 }
